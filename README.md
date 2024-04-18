@@ -1,1 +1,4 @@
 # Image-Classification-and-Image-Segmentation-CV-
+(i) Implementation of CNN model from scratch along with fine tuning a pretrained Resnet18 model to accurately classify images from a wildlife dataset using both models followed by data augmentation techniques to improve the dataset diversity and overall accuracy.
+(ii) Evaluation of a segmentation model and a pre-trained DeepLabv3Plus-Pytorch model . It includes tasks like visualization of data distribution, image and corresponding color coded masks, model inference, performance evaluation metrics such as pixel-wise accuracy, IoU, and mAP, as well as analysis of model performance and cross-domain analysis. It aims to provide insights into the segmentation model's performance on diverse driving environments and potential areas for enhancement
+
