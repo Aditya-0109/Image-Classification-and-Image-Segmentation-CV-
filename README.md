@@ -6,10 +6,10 @@ This repository contains implementations of Convolutional Neural Network (CNN) m
 1)CNN from scratch
 2)Fine-tuned ResNet18
 
-# Dataset:
+## Dataset:
 The wildlife dataset consists of various categories of animals and their habitats.
 
-# Techniques Used:
+## Techniques Used:
 1)Data augmentation to improve dataset diversity
 2)Transfer learning for fine-tuning a pretrained ResNet18 model
 
@@ -18,16 +18,16 @@ The wildlife dataset consists of various categories of animals and their habitat
 1)Segmentation model (custom implementation)
 2)Pre-trained DeepLabv3Plus-PyTorch model
 
-# Dataset:
+## Dataset:
 The segmentation dataset includes images with corresponding color-coded masks indicating segmented objects.
 
-# Tasks:
+## Tasks:
 1)Visualization of data distribution, images, and corresponding masks.
 2)Model inference and evaluation.
 3)Performance evaluation metrics: pixel-wise accuracy, IoU, mAP.
 4)Analysis of model performance and cross-domain analysis.
 
-# Conclusion
+## Conclusion
 This repository serves as a comprehensive toolkit for wildlife image classification and segmentation tasks, providing insights into model performance and potential areas for enhancement. Feel free to explore, experiment, and contribute to further improve the models and techniques.
 
 
