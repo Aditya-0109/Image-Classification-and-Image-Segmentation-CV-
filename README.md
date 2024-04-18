@@ -28,7 +28,7 @@ The segmentation dataset includes images with corresponding color-coded masks in
 4)Analysis of model performance and cross-domain analysis.
 
 ## Conclusion
-This repository serves as a comprehensive toolkit for wildlife image classification and segmentation tasks, providing insights into model performance and potential areas for enhancement. Feel free to explore, experiment, and contribute to further improve the models and techniques.
+This repository serves as a comprehensive toolkit for image classification and segmentation tasks, providing insights into model performance and potential areas for enhancement. Feel free to explore, experiment, and contribute to further improve the models and techniques.
 
 
 
