@@ -2,7 +2,7 @@
 This repository contains implementations of Convolutional Neural Network (CNN) models for image classification and segmentation tasks using PyTorch. The primary focus is on classifying images from a wildlife dataset and segmenting objects within images using various models and techniques.
 
 # Image Classification
-Models Implemented:
+## Models Implemented:
 1)CNN from scratch
 2)Fine-tuned ResNet18
 
@@ -14,7 +14,7 @@ The wildlife dataset consists of various categories of animals and their habitat
 2)Transfer learning for fine-tuning a pretrained ResNet18 model
 
 # Image Segmentation
-Models Evaluated:
+## Models Evaluated:
 1)Segmentation model (custom implementation)
 2)Pre-trained DeepLabv3Plus-PyTorch model
 
